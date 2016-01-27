@@ -1,0 +1,4 @@
+
+this is to test git commit comman without -m
+we can add comments when entering in the notepad file thats going to open after pressing enter
+
